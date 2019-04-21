@@ -1,0 +1,32 @@
+Enter # strings to insert into ULLMap: 3
+class ULLMap: 0.09 sec
+
+Enter # strings to insert into MyHashMap: 9
+class MyHashMap: 0.05 sec
+
+Enter # strings to insert into Java's HashMap: 11
+Java's Built-in HashMap: 0.00 sec
+
+Would you like to try more timed-tests? (y/n): n
+
+Process finished with exit code 0
+
+
+
+ This program inserts random Strings of length L
+ Into different types of maps as <String, Integer> pairs.
+
+What would you like L to be?: 10
+
+Enter # strings to insert into ULLMap: 9
+class ULLMap: 0.03 sec
+
+Enter # strings to insert into your MyHashMap: 9
+class MyHashMap: 0.00 sec
+
+Enter # strings to insert into Java's HashMap: 9
+Java's Built-in HashMap: 0.00 sec
+
+Would you like to try more timed-tests? (y/n)n
+
+Process finished with exit code 0
